@@ -27,7 +27,6 @@ namespace Lesson3
             }
             System.Console.WriteLine($"a = {a}");
             System.Console.WriteLine($"b = {b}");
-            System.Console.WriteLine($"b = {b}");
         }
     }
 }
